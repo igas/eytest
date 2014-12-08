@@ -1,0 +1,3 @@
+environments:
+  prod:
+    precompile_assets: true
